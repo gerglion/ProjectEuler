@@ -21,12 +21,15 @@ Difficulty Rating: 5%
 
 Description
 -----------
-Consider all integer combinations of |ab| for 2 ≤ *a* ≤ 5 and 2 ≤ *b* ≤ 5\:::
+Consider all integer combinations of |ab| for 2 ≤ *a* ≤ 5 and 2 ≤ *b* ≤ 5:
 
-    22=4, 23=8, 24=16, 25=32
-    32=9, 33=27, 34=81, 35=243
-    42=16, 43=64, 44=256, 45=1024
-    52=25, 53=125, 54=625, 55=3125
+    | 2\ :sup:`2`\ = 4, 2\ :sup:`3`\ = 8, 2\ :sup:`4`\ = 16, 2\ :sup:`5`\ = 32
+    |
+    | 3\ :sup:`2`\ = 9, 3\ :sup:`3`\ = 27, 3\ :sup:`4`\ = 81, 3\ :sup:`5`\ = 243
+    |
+    | 4\ :sup:`2`\ = 16, 4\ :sup:`3`\ = 64, 4\ :sup:`4`\ = 256, 4\ :sup:`5`\ = 1024
+    |
+    | 5\ :sup:`2`\ = 25, 5\ :sup:`3`\ = 125, 5\ :sup:`4`\ = 625, 5\ :sup:`5`\ = 3125
 
 If they are then placed in numerical order, with any repeats removed, we get the following sequence of 15 distinct terms:
 
