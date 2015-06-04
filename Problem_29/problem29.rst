@@ -16,7 +16,9 @@ About
 -----
 
 Link: `Problem #29 <http://projecteuler.net/problem=29>`_
+
 Published: Friday, 25th October 2002, 01:00 pm
+
 Difficulty Rating: 5%
 
 Description

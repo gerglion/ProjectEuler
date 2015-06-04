@@ -12,7 +12,7 @@ def main():
     if ARG_LEN > 1:
         limit = int(sys.argv[1])
     else:
-        df_limit = 10
+        limit = 10
 
 if __name__ == '__main__':
     main()
