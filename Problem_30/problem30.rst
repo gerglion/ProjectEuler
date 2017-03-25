@@ -26,11 +26,11 @@ Description
 
 Surprisingly there are only three numbers that can be written as the sum of fourth powers of their digits:
 
-   | 1634 = 1\ :sub:`4`\  + 6\ :sub:`4`\  + 3\ :sub:`4`\  + 4\ :sub:`4`\ 
-   | 8208 = 8\ :sub:`4`\  + 2\ :sub:`4`\  + 0\ :sub:`4`\  + 8\ :sub:`4`\ 
-   | 9474 = 9\ :sub:`4`\  + 4\ :sub:`4`\  + 7\ :sub:`4`\  + 4\ :sub:`4`\ 
+   | 1634 = 1\ :sup:`4`\  + 6\ :sup:`4`\  + 3\ :sup:`4`\  + 4\ :sup:`4`\ 
+   | 8208 = 8\ :sup:`4`\  + 2\ :sup:`4`\  + 0\ :sup:`4`\  + 8\ :sup:`4`\ 
+   | 9474 = 9\ :sup:`4`\  + 4\ :sup:`4`\  + 7\ :sup:`4`\  + 4\ :sup:`4`\ 
 
-As 1 = 1\ :sub:`4`\  is not a sum it is not included.
+As 1 = 1\ :sup:`4`\  is not a sum it is not included.
 
 The sum of these numbers is 1634 + 8208 + 9474 = 19316.
 
